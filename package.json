@@ -1,7 +1,7 @@
 {
   "name": "ng4_init_systejs",
   "version": "0.0.1",
-  "description": "ng4 width systemjs",
+  "description": "ng4 with systemjs",
   "scripts": {
     "build": "tsc -p src/",
     "build:watch": "tsc -p src/ -w",
